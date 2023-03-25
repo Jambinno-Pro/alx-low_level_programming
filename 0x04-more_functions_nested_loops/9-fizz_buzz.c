@@ -5,7 +5,7 @@
  *
  * For multiples of three print Fizz instead of the number.
  *
- * For the multiples of five print Buzz.
+ * For the multiples of 5 print Buzz.
  *
  * For numbers which are multiples of both 3 and 5 print FizzBuzz.
  * Return: always 0
